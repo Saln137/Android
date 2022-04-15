@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.下列说法正确的是。</subject>
+      <a>在类方法中可用this来调用本类的类方法</a>
+      <b>在类方法中调用本类的类方法时可直接调用</b>
+      <c>在类方法中只能调用本类中的类方法</c>
+      <d>在类方法中绝对不能调用实例方法</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.下面那几个函数是public void method(){̷}的重载函数？</subject>
+      <a>public void method( int m){̷}</a>
+      <b>public int method(){̷}</b>
+      <c>public void method2(){̷}</c>
+      <d>public int method(int m，float f ){̷}</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.String s = “Example”;合法的代码由哪些？</subject>
+      <a>s>>>=3</a>
+      <b>s[3]= “X”</b>
+      <c>int i = s.iength()</c>
+      <d>s = s +1</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.如下哪些不是java的关键字？</subject>
+      <a>const</a>
+      <b>NULL</b>
+      <c>this</c>
+      <d>native</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.方法resume()负责恢复哪些线程的执行</subject>
+      <a>通过调用stop()方法而停止的线程。</a>
+      <b>通过调用sleep()方法而停止的线程。</b>
+      <c>通过调用wait()方法而停止的线程。</c>
+      <d>通过调用suspend()方法而停止的线程。</d>
+      <answer>4</answer>
+  </exercises>
+</infos>

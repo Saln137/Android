@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.Java I/O程序设计中，下列描述正确的是。</subject>
+      <a>OutputStream用于写操作</a>
+      <b>I/O库不支持对文件可读可写API</b>
+      <c> InputStream用于写操作</c>
+      <d>无</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.关于Java语言，下列描述正确的是。</subject>
+      <a>switch 不能够作用在String类型上</a>
+      <b>List， Set， Map都继承自Collection接口</b>
+      <c>Java语言支持goto语句</c>
+      <d>GC不是垃圾收集器，程序员需要担心内存管理</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.下列描述中，哪个符合Java语言的特征</subject>
+      <a>不支持跨平台(Windows，Linux，Unix等)</a>
+      <b> GC(自动垃圾回收)，提高了代码安全性</b>
+      <c>支持类C的指针运算操作</c>
+      <d>不支持与其它语言书写的程序进行通讯</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.MAX_LENGTH 是int 型public 成员变量，变量值保持为常量1，用简短语句定义这个变量</subject>
+      <a>public int MAX_LENGTH=1;</a>
+      <b>final int MAX_LENGTH=1;</b>
+      <c>final public int MAX_LENGTH=1</c>
+      <d>public final int MAX_LENGTH=1.</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.关于异常(Exception)，下列描述错误是。</subject>
+      <a>异常的基类为Exception，所有异常都必须直接或者间接继承它</a>
+      <b>异常可以用try{ . . .}catch(Exception e){ . . .}来捕获并进行处理</b>
+      <c>如果某异常继承RuntimeException，则该异常可以不被声明</c>
+      <d>异常可以随便处理，而不是抛给外层的程序进行处理</d>
+      <answer>4</answer>
+  </exercises>
+</infos>

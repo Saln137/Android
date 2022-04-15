@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.MAX_LENGTH 是int 型public 成员变量，变量值保持为常量1，用简短语句定义这个变量。</subject>
+      <a>public int MAX_LENGTH=1</a>                                     
+      <b> final int MAX_LENGTH=1</b>
+      <c>final public int MAX_LENGTH=1</c>
+      <d>public final int MAX_LENGTH=1</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.关于线程设计，下列描述正确的是。</subject>
+      <a>线程对象必须实现Runnable接口</a>
+      <b>启动一个线程直接调用线程对象的run()方法</b>
+      <c> Java提供对多线程同步提供语言级的支持</c>
+      <d>一个线程可以包含多个进程</d>
+      <answer>3</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.欲构造ArrayList类得一个实例，此类继承了List接口，下列哪个方法是正确的</subject>
+      <a>ArrayList myList = new Object();</a>
+      <b>List myList = new ArrayList();</b>
+      <c>ArraylList myList = new List();</c>
+      <d>List myList = new List();</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.关于线程设计，下列描述正确的是</subject>
+      <a> 线程对象必须实现Runnable接口</a>
+      <b> 启动一个线程直接调用线程对象的run()方法</b>
+      <c>Java提供对多线程同步提供语言级的支持</c>
+      <d>一个线程可以包含多个进程</d>
+      <answer>3</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.以下各DOS命令能够显示出本机DNS服务器地址的是：( )</subject>
+      <a>ping -a</a>
+      <b>ipconfig -all</b>
+      <c>netstat</c>
+      <d>telnet</d>
+      <answer>4</answer>
+  </exercises>
+</infos>

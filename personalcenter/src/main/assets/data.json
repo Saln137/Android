@@ -1,0 +1,142 @@
+[
+ {
+  "chapterId": 1,
+  "videoId": "1",
+  "title": "第1章 java基础入门",
+  "secondTitle": "java环境配置",
+  "videoPath": "https://v.how2j.cn/430/141.mp4"
+ },
+ {
+  "chapterId": 1,
+  "videoId": "2",
+  "title": "第1章 java 基础入门",
+  "secondTitle": "java编译软件",
+  "videoPath": "http://flv4mp4.people.com.cn/videofile7/pvmsvideo/2021/12/22/ZhengJiaHao_c26e1df89fbcaed48c5be6e53ab79e36_android_c.mp4"
+ },
+ {
+  "chapterId": 2,
+  "videoId": "1",
+  "title": "第2章 java 异常处理",
+  "secondTitle": "异常",
+  "videoPath": "http://jackie.vaiwan.com/cn.edu.zufe.app002/zhecai.mp4"
+ },
+ {
+  "chapterId": 2,
+  "videoId": "2",
+  "title": "第2章 java 异常处理",
+  "secondTitle": "表格布局",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 3,
+  "videoId": "1",
+  "title": "第3章 I/O",
+  "secondTitle": "输入输出",
+  "videoPath": "http://ips.ifeng.com/video19.ifeng.com/video09/2014/06/16/1989823-102-086-0009.mp4"
+ },
+ {
+  "chapterId": 3,
+  "videoId": "2",
+  "title": "第3章 I/O",
+  "secondTitle": "I/O",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 4,
+  "videoId": "1",
+  "title": "第4章 泛型",
+  "secondTitle": "泛型的概念",
+  "videoPath": "https://v.how2j.cn/707/289.mp4"
+ },
+ {
+  "chapterId": 4,
+  "videoId": "2",
+  "title": "第4章 泛型",
+  "secondTitle": "泛型2",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 5,
+  "videoId": "1",
+  "title": "第5章 SQLite 数据库",
+  "secondTitle": "SQLite数据库的使用",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 5,
+  "videoId": "2",
+  "title": "第5章 SQLite 数据库",
+  "secondTitle": "数据的使用",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 6,
+  "videoId": "1",
+  "title": "第6章 广播接收者",
+  "secondTitle": "内容提供者简介",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 6,
+  "videoId": "2",
+  "title": "第6章 广播接收者",
+  "secondTitle": "内容提供者的访问",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 7,
+  "videoId": "1",
+  "title": "第7章 服务框架",
+  "secondTitle": "服务框架1",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 7,
+  "videoId": "2",
+  "title": "第7章 服务框架",
+  "secondTitle": "服务框架2",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 8,
+  "videoId": "1",
+  "title": "第8章 多线程",
+  "secondTitle": "线程的概念",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 8,
+  "videoId": "2",
+  "title": "第8章 多线程",
+  "secondTitle": "多线程使用",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 9,
+  "videoId": "1",
+  "title": "第9章 网络编程",
+  "secondTitle": "访问网络",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 9,
+  "videoId": "2",
+  "title": "第9章 网络编程",
+  "secondTitle": "数据的提交方式",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 10,
+  "videoId": "1",
+  "title": "第10章 高级编程",
+  "secondTitle": "图形图像处理与动画",
+  "videoPath": ""
+ },
+ {
+  "chapterId": 10,
+  "videoId": "2",
+  "title": "第10章 高级编程",
+  "secondTitle": "多媒体",
+  "videoPath": ""
+ }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.关于sleep()和wait()，以下描述错误的一项是（ ）。</subject>
+      <a>sleep是线程类（Thread）的方法，wait是Object类的方法</a>
+      <b> sleep不释放对象锁，wait放弃对象锁</b>
+      <c>sleep暂停线程、但监控状态仍然保持，结束后会自动恢复</c>
+      <d>wait后进入等待锁定池，只有针对此对象发出notify方法后获得对象锁进入运行状态</d>
+      <answer>4</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.下面哪个可以改变容器的布局？（）。</subject>
+      <a>setLayout(aLayoutManager)</a>
+      <b> layout(aLayoutManager)</b>
+      <c>addLayout(aLayoutManager)</c>
+      <d> setLayoutManager(aLayoutManager)</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.提供Java存取数据库能力的包是。</subject>
+      <a>java.sql</a>
+      <b>java.awt</b>
+      <c>java.lang</c>
+      <d>java.swing</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.下面哪个是applet传递参数的正确方式。</subject>
+      <a> applet code=Test.class age=33 width=1 height=1</a>
+      <b>param name=age value=33</b>
+      <c>applet code=Test.class name=age value=33 width=1 height=1</c>
+      <d>applet Test 33</d>
+      <answer>2</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.能用来修饰interface的有。</subject>
+      <a>private</a>
+      <b>public</b>
+      <c>protected</c>
+      <d>static</d>
+      <answer>2</answer>
+  </exercises>
+</infos>

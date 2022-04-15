@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<infos>
+  <exercises id="1">
+      <subject>1.有关线程的哪些叙述是错的（ ）</subject>
+      <a>一旦一个线程被创建，它就立即开始运行</a>
+      <b>使用start()方法可以使一个线程成为可运行的，但是它不一定立即开始运行</b>
+      <c>当一个线程因为抢先机制而停止运行，它被放在可运行队列的前面。</c>
+      <d>一个线程可能因为不同的原因停止并进入就绪状态</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="2">
+      <subject>2.下面的哪些声明是合法的？</subject>
+      <a>long 1 = 499</a>
+      <b>int i = 4L</b>
+      <c>float f =1.1</c>
+      <d>double d = 344.4</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="3">
+      <subject>3.关于运算符>>和>>>描述正确的是</subject>
+      <a>>>执行移动</a>
+      <b>>>执行翻转</b>
+      <c>>>执行有符号左移，>>>执行无符号左移</c>
+      <d>>>执行无符号左移，>>>执行有符号左移</d>
+      <answer>3</answer>
+  </exercises>
+  <exercises id="4">
+      <subject>4.选择Java语言中的基本数据类型</subject>
+      <a>byte</a>
+      <b>Integer</b>
+      <c>String</c>
+      <d>chare</d>
+      <answer>1</answer>
+  </exercises>
+  <exercises id="5">
+      <subject>5.从下列选项中选择错误的Java表达式</subject>
+      <a>int k=new String(“aa”)</a>
+      <b>String str=String(“bb”)</b>
+      <c>long j=8888</c>
+      <d>char c=74</d>
+      <answer>1</answer>
+  </exercises>
+</infos>
